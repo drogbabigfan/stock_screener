@@ -10,3 +10,5 @@
    - Value 지표: PER, PBR, PEG(OP Growth), PEG(NI Growth)
    - Scoring 지표: F-Score
    - Quantile/Rank 지표: FCF, 영업현금흐름, OPM, GPM, 시가총액, 거래회전율
+   - Momentum 지표: 상대모멘텀, 절대모멘텀
+   - Techincal 지표: 이동평균배열(정배열/역배열)
