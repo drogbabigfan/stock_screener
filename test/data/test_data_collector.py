@@ -1,5 +1,5 @@
 from unittest import TestCase
-from stock_screening.data.collector.data_collector import DataCollector
+from stock_screening.collector.data_collector import DataCollector
 
 class TestDataReader(TestCase):
     def setUp(self):
