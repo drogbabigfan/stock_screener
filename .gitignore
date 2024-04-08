@@ -1,0 +1,5 @@
+# 아래 파일 추적 중단
+*.log
+*.parquet
+*.csv
+*.xlsx
